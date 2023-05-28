@@ -818,14 +818,6 @@ footer .copyright {
 
 } */
 
-.valores{
-    margin-top: 1em;
-    padding: 1em;
-    list-style: none;
-}
-
-
-
 /* #contenedor{
     display: flex;
     flex-direction: row;
@@ -862,6 +854,7 @@ footer .copyright {
 
 .nosotros-items h2{
     color:#a97c50;
+    text-decoration: underline;
     font-weight: bold;
     font-style: italic;
 }
