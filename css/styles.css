@@ -856,6 +856,7 @@ footer .copyright {
     flex-direction: row-reverse;
     margin: 2rem; 
     text-align: justify;
+    justify-content: flex-end;
 
 }
 
