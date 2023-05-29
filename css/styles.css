@@ -135,7 +135,7 @@ p{
     }
 }
 
-@media (max-width: 400px){
+@media (max-width: 440px){
     .hero .hero-logo{
         width: 80%;
     } 
@@ -230,7 +230,7 @@ header.transparente nav a:hover {
     transform: translateY(-8px) rotateZ(-45deg);
 }
 
-@media (max-width: 620px) {
+@media (max-width: 720px) {
     #burger {
         display: block;
     }
