@@ -7,8 +7,7 @@ Este es un proyecto realizado para el curso de Full Stack Python de Codo a Codo.
 Como temática para iniciar el proyecto, todos coincidimos en hacer una página web estilo comercio, siendo la elegida una inmobiliaria.
 
 Cuenta con 5 páginas:
-1) Index : contiene la vista principal de la página web.
-
+1) Index : contiene la vista principal de la página web. Aquí es donde ocurren las animaciones, transformaciones y transiciones del sitio web.
 2) Propiedades: contiene la vista de las propiedades que se encuentran disponibles para consultar.
 3) Propiedad1: contiene el detalle de la propiedad "Laguna Azul" como ejemplo.
 4) Nosotros: contiene una breve descripción de la Inmobiliaria y sus objetivos.
